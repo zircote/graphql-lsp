@@ -1,6 +1,6 @@
 {
   "name": "graphql-lsp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "GraphQL language server plugin for Claude Code with graphql-lsp integration and automated hooks for validation and formatting",
   "author": {
     "name": "zircote",
